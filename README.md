@@ -1,1 +1,2 @@
 # Reflection_CSharp_Sample
+C#における、リフレクション機能理解のためのサンプルプロジェクト
